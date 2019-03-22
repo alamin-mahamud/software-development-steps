@@ -73,14 +73,19 @@ A good number of steps for researching, developing and building a great software
     - Short CTA Section
     - Email Contact Form
 ### Map User Journey
-- Hiring For Software Development as a consultant or remote
-- Inviting For Speaking Event
-- Inviting for Courses
-- Inviting for Books
-- Youtube Channel Subscription
+- Reasons for them coming to my site
+  - Hiring For Software Development as a consultant or remote
+  - Inviting For Speaking Event
+  - Inviting for Courses
+  - Inviting for Books
+  - Youtube Channel Subscription
+- Home -> Works [Portfolio/Projects] -> Contact
+- Home -> Skills -> Work -> Services -> Contact
+- Home -> Youtube -> Services -> Contact
 
 ## Explore and Discovery
 - Look at existing solutions
+  - take some notes in a word/text
 - Uncover possible hurdles
 - Organize Information
 
