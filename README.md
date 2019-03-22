@@ -9,6 +9,7 @@ A good number of steps for researching, developing and building a great software
   - [Identify Target Audience](#identify-target-audience)
   - [Outline Sitemap](#outline-sitemap)
   - [Map User Journey](#map-user-journey)
+
 - [Explore and Discovery](#explore-and-discovery)
 - [Wireframing](#wireframing)
 - [Create Content](#create-content)
